@@ -130,7 +130,7 @@ Medication as printable PDF:
 
 ___
 SMS ALERT:
-![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/sms_alert.png "SMS Alert")
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/sms_alert.PNG "SMS Alert")
 
 
 ___
