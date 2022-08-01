@@ -15,7 +15,11 @@
     </ul>
   </li>
   <li>Visualization of all active medication</li>
-  <li>Visualization of that day's medication</li>
+  <li>Visualization of that day's medication
+    <ul>
+      <li>Allows downloading of printable PDF of day's medications</li>
+    </ul>
+  </li>
   <li>Assignment and modification of administration times for each medication</li>
   <li>HIPPA-compliant SMS reminders that medication is due
     <ul>
