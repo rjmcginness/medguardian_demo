@@ -21,7 +21,7 @@
     </ul>
   </li>
   <li>Assignment and modification of administration times for each medication</li>
-  <li>HIPPA-compliant SMS reminders that medication is due
+  <li>HIPAA-compliant SMS reminders that medication is due
     <ul>
       <li>Alerts based on user-chosen administration times</li>
     </ul>
