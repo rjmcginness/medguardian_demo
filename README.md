@@ -18,3 +18,6 @@
       <li>Alerts based on user-chosen administration times</li>
   </ul>
 </ul>
+
+Inline-style: 
+![alt text](https://github.com/rjmcginness/medguardian_demo/edit/main/rjm_project_aws_images/intro.jpg "Logo Title Text 1")
