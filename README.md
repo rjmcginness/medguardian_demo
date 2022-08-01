@@ -53,6 +53,11 @@ Login Success:
 
 
 ___
+Patient (User) Profile:
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/profile.png "Profile Screen")
+
+
+___
 Dropdown Menus:
 ![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/dropdowns.png "Dropdown Menus")
 
@@ -65,6 +70,26 @@ Add A New Prescriber:
 ___
 Prescriber Added:
 ![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/prescriber_added.png "Prescriber Added")
+
+
+___
+User's Prescribers:
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/prescribers.png "Prescribers Screen")
+
+
+___
+Find Prescribers:
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/prescriber_search1.png "Prescribers Search Screen1")
+
+
+___
+Find Prescribers Example:
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/prescriber_search2.png "Prescribers Search Screen2")
+
+
+___
+Select Prescriber:
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/prescriber_select.png "Prescriber Select Screen")
 
 
 ___
@@ -113,8 +138,18 @@ Edit/Add Administration Times:
 
 
 ___
+Edit/Add Twice Daily Times:
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/bid_times.png "Twice Daily Times Screen")
+
+
+___
 Edit/Add Administration Times Success:
 ![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/edit_time_succ.png "Edit Times Success Screen")
+
+
+___
+Active Medications with Admin Times:
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/times_edited.png "Twice Daily Times Screen")
 
 
 ___
