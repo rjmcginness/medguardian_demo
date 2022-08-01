@@ -125,7 +125,7 @@ Download Successful:
 
 ___
 Medication as printable PDF:
-![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/med_pdf.png ALERT"Medication PDF")
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/med_pdf.png "Medication PDF")
 
 
 ___
