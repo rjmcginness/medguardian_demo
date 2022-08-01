@@ -22,7 +22,6 @@
       <li>Alerts based on user-chosen administration times</li>
     </ul>
   </li>
-    
 </ul>
 
 Login Screen:
