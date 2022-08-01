@@ -29,7 +29,7 @@
 </ul>
 
 Login Screen:
-![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/login.png "Login Screen")
+![alt text](https://github.com/rjmcginness/medguardian_demo/raw/main/rjm_project_aws_images/login.png "Login Screen ")
 
 
 ___
