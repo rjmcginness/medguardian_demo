@@ -2,7 +2,7 @@
 ---
 # **MedGuardian**
 
-<h4>Personal Medication Assistant</h4>
+`<h4>Personal Medication Assistant</h4>
 
 <p>MedGuardian provides users a web interface to assist with management of prescription medications.</p>
 <h3>FEATURES</h3>
@@ -17,6 +17,6 @@
     <ul>
       <li>Alerts based on user-chosen administration times</li>
   </ul>
-</ul>
+</ul>`
 
-![alt text](https://github.com/rjmcginness/medguardian_demo/edit/main/rjm_project_aws_images/intro.jpg "Intro Screen")
+`![alt text](https://github.com/rjmcginness/medguardian_demo/main/rjm_project_aws_images/login.pgn "Login Screen")`
